@@ -1,0 +1,248 @@
+
+player_0_gameplay.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+233
+  rotate: false
+  xy: 2, 931
+  size: 61, 31
+  orig: 61, 31
+  offset: 0, 0
+  index: -1
+CHANTRAI2
+  rotate: false
+  xy: 2, 531
+  size: 206, 168
+  orig: 206, 168
+  offset: 0, 0
+  index: -1
+anh_sang1
+  rotate: true
+  xy: 890, 762
+  size: 128, 130
+  orig: 128, 130
+  offset: 0, 0
+  index: -1
+base_toc2
+  rotate: true
+  xy: 210, 516
+  size: 168, 187
+  orig: 168, 187
+  offset: 0, 0
+  index: -1
+canh_tay1
+  rotate: true
+  xy: 399, 480
+  size: 173, 232
+  orig: 173, 232
+  offset: 0, 0
+  index: -1
+chan_trai1
+  rotate: false
+  xy: 633, 454
+  size: 325, 169
+  orig: 325, 169
+  offset: 0, 0
+  index: -1
+dui_phai1
+  rotate: false
+  xy: 307, 271
+  size: 301, 207
+  orig: 301, 207
+  offset: 0, 0
+  index: -1
+mat1
+  rotate: false
+  xy: 515, 655
+  size: 146, 153
+  orig: 146, 153
+  offset: 0, 0
+  index: -1
+soi_1
+  rotate: true
+  xy: 65, 917
+  size: 45, 187
+  orig: 45, 187
+  offset: 0, 0
+  index: -1
+soi_10
+  rotate: true
+  xy: 2, 843
+  size: 72, 224
+  orig: 72, 224
+  offset: 0, 0
+  index: -1
+soi_11
+  rotate: true
+  xy: 799, 892
+  size: 70, 133
+  orig: 70, 133
+  offset: 0, 0
+  index: -1
+soi_2
+  rotate: true
+  xy: 254, 914
+  size: 48, 243
+  orig: 48, 243
+  offset: 0, 0
+  index: -1
+soi_3
+  rotate: true
+  xy: 664, 790
+  size: 100, 224
+  orig: 100, 224
+  offset: 0, 0
+  index: -1
+soi_4
+  rotate: true
+  xy: 499, 914
+  size: 48, 140
+  orig: 48, 140
+  offset: 0, 0
+  index: -1
+soi_5
+  rotate: true
+  xy: 663, 625
+  size: 135, 253
+  orig: 135, 253
+  offset: 0, 0
+  index: -1
+soi_6
+  rotate: true
+  xy: 641, 910
+  size: 52, 156
+  orig: 52, 156
+  offset: 0, 0
+  index: -1
+soi_7
+  rotate: true
+  xy: 2, 701
+  size: 119, 242
+  orig: 119, 242
+  offset: 0, 0
+  index: -1
+soi_8
+  rotate: true
+  xy: 228, 822
+  size: 90, 235
+  orig: 90, 235
+  offset: 0, 0
+  index: -1
+soi_9
+  rotate: true
+  xy: 247, 2
+  size: 267, 351
+  orig: 267, 351
+  offset: 0, 0
+  index: -1
+tay1
+  rotate: false
+  xy: 2, 327
+  size: 303, 187
+  orig: 303, 187
+  offset: 0, 0
+  index: -1
+tay2
+  rotate: true
+  xy: 246, 686
+  size: 122, 267
+  orig: 122, 267
+  offset: 0, 0
+  index: -1
+toc_duoi1
+  rotate: false
+  xy: 2, 96
+  size: 243, 229
+  orig: 243, 229
+  offset: 0, 0
+  index: -1
+toc_tren1
+  rotate: false
+  xy: 610, 232
+  size: 234, 220
+  orig: 234, 220
+  offset: 0, 0
+  index: -1
+tui_deo_mong2
+  rotate: false
+  xy: 465, 810
+  size: 197, 98
+  orig: 197, 98
+  offset: 0, 0
+  index: -1
+
+player_0_gameplay2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chan_phai1
+  rotate: false
+  xy: 655, 5
+  size: 323, 365
+  orig: 323, 365
+  offset: 0, 0
+  index: -1
+sung1
+  rotate: true
+  xy: 655, 372
+  size: 553, 316
+  orig: 553, 316
+  offset: 0, 0
+  index: -1
+than1
+  rotate: false
+  xy: 2, 2
+  size: 651, 923
+  orig: 651, 923
+  offset: 0, 0
+  index: -1
+
+player_0_gameplay3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CHANPHAI2
+  rotate: true
+  xy: 2, 394
+  size: 289, 390
+  orig: 289, 390
+  offset: 0, 0
+  index: -1
+THAN2
+  rotate: true
+  xy: 2, 17
+  size: 339, 489
+  orig: 339, 489
+  offset: 0, 0
+  index: -1
+dui_phai2
+  rotate: false
+  xy: 493, 2
+  size: 468, 354
+  orig: 468, 354
+  offset: 0, 0
+  index: -1
+dui_trai1
+  rotate: true
+  xy: 394, 358
+  size: 325, 350
+  orig: 325, 350
+  offset: 0, 0
+  index: -1
+
+player_0_gameplay4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dui_trai2
+  rotate: false
+  xy: 2, 2
+  size: 614, 803
+  orig: 614, 803
+  offset: 0, 0
+  index: -1

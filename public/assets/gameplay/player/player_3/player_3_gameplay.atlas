@@ -1,0 +1,151 @@
+
+player_3_gameplay.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+233
+  rotate: false
+  xy: 2, 895
+  size: 61, 31
+  orig: 61, 31
+  offset: 0, 0
+  index: -1
+anh_sang1
+  rotate: true
+  xy: 418, 798
+  size: 128, 130
+  orig: 128, 130
+  offset: 0, 0
+  index: -1
+chan_phai
+  rotate: false
+  xy: 2, 20
+  size: 364, 311
+  orig: 364, 311
+  offset: 0, 0
+  index: -1
+chan_phai_shoot
+  rotate: true
+  xy: 554, 325
+  size: 209, 418
+  orig: 209, 418
+  offset: 0, 0
+  index: -1
+chan_trai_shoot
+  rotate: true
+  xy: 2, 383
+  size: 246, 252
+  orig: 246, 252
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 550, 790
+  size: 149, 136
+  orig: 149, 136
+  offset: 0, 0
+  index: -1
+gun_shoot
+  rotate: false
+  xy: 293, 804
+  size: 123, 122
+  orig: 123, 122
+  offset: 0, 0
+  index: -1
+hair_shoot
+  rotate: false
+  xy: 663, 536
+  size: 232, 232
+  orig: 232, 232
+  offset: 0, 0
+  index: -1
+ngon_tay_p
+  rotate: false
+  xy: 65, 872
+  size: 74, 54
+  orig: 74, 54
+  offset: 0, 0
+  index: -1
+tay_phai
+  rotate: true
+  xy: 2, 631
+  size: 171, 329
+  orig: 171, 329
+  offset: 0, 0
+  index: -1
+tay_t
+  rotate: false
+  xy: 256, 333
+  size: 296, 253
+  orig: 296, 253
+  offset: 0, 0
+  index: -1
+tay_t_shoot
+  rotate: true
+  xy: 333, 588
+  size: 200, 328
+  orig: 200, 328
+  offset: 0, 0
+  index: -1
+than
+  rotate: true
+  xy: 368, 2
+  size: 321, 402
+  orig: 321, 402
+  offset: 0, 0
+  index: -1
+toc_mai_1
+  rotate: true
+  xy: 141, 826
+  size: 100, 150
+  orig: 100, 150
+  offset: 0, 0
+  index: -1
+toc_mai_2
+  rotate: true
+  xy: 701, 770
+  size: 156, 180
+  orig: 156, 180
+  offset: 0, 0
+  index: -1
+
+player_3_gameplay2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gun
+  rotate: false
+  xy: 2, 2
+  size: 693, 643
+  orig: 693, 643
+  offset: 0, 0
+  index: -1
+
+player_3_gameplay3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_shoot
+  rotate: true
+  xy: 2, 519
+  size: 453, 504
+  orig: 453, 504
+  offset: 0, 0
+  index: -1
+dui
+  rotate: false
+  xy: 2, 2
+  size: 559, 514
+  orig: 559, 514
+  offset: 0, 0
+  index: -1
+dui_shoot
+  rotate: true
+  xy: 508, 518
+  size: 454, 493
+  orig: 454, 493
+  offset: 0, 0
+  index: -1

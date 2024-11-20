@@ -1,0 +1,81 @@
+
+player_3_ui.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chan
+  rotate: false
+  xy: 2, 2
+  size: 677, 1015
+  orig: 677, 1015
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 681, 68
+  size: 167, 162
+  orig: 167, 162
+  offset: 0, 0
+  index: -1
+ngon_tay_t
+  rotate: false
+  xy: 850, 9
+  size: 108, 221
+  orig: 108, 221
+  offset: 0, 0
+  index: -1
+tay_trai
+  rotate: false
+  xy: 681, 426
+  size: 229, 591
+  orig: 229, 591
+  offset: 0, 0
+  index: -1
+toc_mai_p
+  rotate: false
+  xy: 851, 269
+  size: 128, 155
+  orig: 128, 155
+  offset: 0, 0
+  index: -1
+toc_mai_t
+  rotate: false
+  xy: 681, 232
+  size: 168, 192
+  orig: 168, 192
+  offset: 0, 0
+  index: -1
+
+player_3_ui2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 408, 2
+  size: 431, 665
+  orig: 431, 665
+  offset: 0, 0
+  index: -1
+tay_phai
+  rotate: true
+  xy: 2, 266
+  size: 401, 404
+  orig: 401, 404
+  offset: 0, 0
+  index: -1
+
+player_3_ui3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gun
+  rotate: false
+  xy: 2, 2
+  size: 885, 803
+  orig: 885, 803
+  offset: 0, 0
+  index: -1

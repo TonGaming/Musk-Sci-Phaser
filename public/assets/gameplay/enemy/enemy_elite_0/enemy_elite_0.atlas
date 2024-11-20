@@ -1,0 +1,76 @@
+
+enemy_elite_0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chan_phai
+  rotate: false
+  xy: 2, 488
+  size: 225, 437
+  orig: 228, 440
+  offset: 0, 1
+  index: -1
+chan_trai
+  rotate: false
+  xy: 410, 181
+  size: 225, 437
+  orig: 230, 442
+  offset: 0, 0
+  index: -1
+mui_duoi
+  rotate: true
+  xy: 296, 573
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+mui_phai
+  rotate: true
+  xy: 342, 589
+  size: 29, 53
+  orig: 29, 53
+  offset: 0, 0
+  index: -1
+mui_trai
+  rotate: true
+  xy: 296, 541
+  size: 30, 51
+  orig: 30, 52
+  offset: 0, 1
+  index: -1
+mui_tren
+  rotate: false
+  xy: 229, 523
+  size: 45, 29
+  orig: 45, 29
+  offset: 0, 0
+  index: -1
+sung
+  rotate: false
+  xy: 229, 554
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+tay_phai
+  rotate: true
+  xy: 229, 620
+  size: 305, 407
+  orig: 312, 434
+  offset: 0, 0
+  index: -1
+tay_trai
+  rotate: true
+  xy: 2, 180
+  size: 306, 406
+  orig: 307, 434
+  offset: 0, 0
+  index: -1
+than
+  rotate: true
+  xy: 410, 2
+  size: 177, 315
+  orig: 186, 330
+  offset: 3, 15
+  index: -1

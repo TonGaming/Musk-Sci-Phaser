@@ -1,0 +1,143 @@
+
+player_0_ui.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ban_tay_phai_s
+  rotate: true
+  xy: 2, 800
+  size: 63, 155
+  orig: 63, 155
+  offset: 0, 0
+  index: -1
+ban_tay_trai_s
+  rotate: false
+  xy: 2, 644
+  size: 155, 154
+  orig: 155, 154
+  offset: 0, 0
+  index: -1
+canh_tay_phai_s
+  rotate: true
+  xy: 159, 748
+  size: 115, 285
+  orig: 115, 285
+  offset: 0, 0
+  index: -1
+canh_tay_trai_s
+  rotate: false
+  xy: 599, 347
+  size: 231, 222
+  orig: 231, 222
+  offset: 0, 0
+  index: -1
+chan_trai_s
+  rotate: true
+  xy: 2, 417
+  size: 152, 595
+  orig: 152, 595
+  offset: 0, 0
+  index: -1
+day_duoi_s
+  rotate: true
+  xy: 588, 571
+  size: 163, 332
+  orig: 163, 332
+  offset: 0, 0
+  index: -1
+day_truoc_s
+  rotate: true
+  xy: 446, 745
+  size: 118, 350
+  orig: 118, 350
+  offset: 0, 0
+  index: -1
+dui_phai_s
+  rotate: true
+  xy: 2, 213
+  size: 202, 539
+  orig: 202, 539
+  offset: 0, 0
+  index: -1
+dui_trai_s
+  rotate: true
+  xy: 2, 2
+  size: 209, 483
+  orig: 209, 483
+  offset: 0, 0
+  index: -1
+khuyu_tay_phai_s
+  rotate: true
+  xy: 159, 620
+  size: 126, 260
+  orig: 126, 260
+  offset: 0, 0
+  index: -1
+khuyu_tay_trai_s
+  rotate: false
+  xy: 798, 736
+  size: 178, 127
+  orig: 178, 127
+  offset: 0, 0
+  index: -1
+mat_s
+  rotate: true
+  xy: 421, 595
+  size: 148, 165
+  orig: 148, 165
+  offset: 0, 0
+  index: -1
+toc_duoi_s
+  rotate: true
+  xy: 543, 105
+  size: 240, 288
+  orig: 240, 288
+  offset: 0, 0
+  index: -1
+
+player_0_ui2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chan_phai_s
+  rotate: true
+  xy: 2, 351
+  size: 206, 563
+  orig: 206, 563
+  offset: 0, 0
+  index: -1
+than_s
+  rotate: true
+  xy: 2, 2
+  size: 347, 618
+  orig: 347, 618
+  offset: 0, 0
+  index: -1
+
+player_0_ui3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+toc_tren_s
+  rotate: false
+  xy: 2, 2
+  size: 598, 939
+  orig: 598, 939
+  offset: 0, 0
+  index: -1
+
+player_0_ui4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sung_s
+  rotate: false
+  xy: 2, 2
+  size: 632, 624
+  orig: 632, 624
+  offset: 0, 0
+  index: -1
